@@ -1,0 +1,18 @@
+Selected a data set from the https://archive.ics.uci.edu/ml/datasets.php names PAGE BLOCK CLASSIFICATION with 5400 plus data instances and 10 variables/features which is classification data set
+
+Project part-1:
+1. Preprocessing of data i.e, for page block classification find missing values, replace them with average or mean of each column
+2. Found the outliers in data and made a box plot to find outliers
+3. Remove the outliers using the technique of interquartile range
+
+Project part-2:
+1. Check whether the data is imbalanced data or not 
+2. Oversample or under sampling to be performed if required is imbalanced else this can be skipped
+3. Split the data and perform normalization if required
+4. Trained models using four models i.e, linear classifier , Decision trees, Random forest, Support Vector Machine non linear by model structure selection
+5. Performed K-cross fold validation for all above model, plotted confusion matrix and classification report as model evaluation methods for classification
+
+Project Part-3:
+1. Performed Lasso regression to perform variable selection and trained using Random forest, Support Vector linear, Multi Layer Perceptron (ANN)
+2. Performed Bidirectional variables selection to select features and train using Random forest, Support Vector linear, Multi Layer Perceptron (ANN)
+3. Compared all the models
