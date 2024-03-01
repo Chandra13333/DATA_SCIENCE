@@ -1,11 +1,22 @@
-	DATA SCIENCE PROJECT REFERS TO PAGE BLOCK CLASSIFICATION
-	Files:
-	  a. Project_info.txt -> Information about project
-	  b. page-blocks.names -> Source of data
-	  c. page-blocks.data.z -> Collected raw data
-	  d. Group_4_data.ipynb -> Data cleaning
-	  e. Group_4_data.csv -> Csv file
-	  f. Group_4_data.sql -> Connecting to data base and get by query
-	  g. Group_4_data_cleaned.csv -> Cleaned csv file
-	  h. Group_4_data_cleaned.npz -> Npz form of file
-	  i. Group_4_data_cleaned.pkl -> Pickle file
+DATA SCIENCE PROJECT ON PAGE BLOCK CLASSIFICATION
+	1. page-blocks.data.Z
+	2. page-blocks.names
+	3. Project_info.txt
+	4. Group_4_data.csv
+	5. Group_4_data.ipynb
+	6. Group_4_data.sql
+	7. Group_4_data_cleaned.csv
+	8. Group_4_data_cleaned.npz
+	9. Group_4_data_cleaned.pkl
+	10. Group_4_linear.ipynb
+	11. Group_4_knn.ipynb
+	12. Group_4_svm.ipynb
+	13. Group_4_ensemble.ipynb
+	14. Group_4_randomforest.ipynb
+	15. Group_4_first_vairable_selection1.ipynb
+	16. Group_4_visualization.ipynb
+	17. Group_4_yourchoice.ipynb
+	18. Group_4_clustering.ipynb
+	19. Group_4_Bi_directional_elimination.ipynb
+	20. Group_4_newmodels.ipynb
+	21. Group_4_presentation_of_test_results.ipynb
