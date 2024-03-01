@@ -1,6 +1,6 @@
 DATA SCIENCE PROJECT ON PAGE BLOCK CLASSIFICATION
-	1. page-blocks.data.Z
-	2. page-blocks.names
+    1. page-blocks.data.Z
+    2. page-blocks.names
 	3. Project_info.txt
 	4. Group_4_data.csv
 	5. Group_4_data.ipynb
