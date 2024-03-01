@@ -1,4 +1,4 @@
-DATA SCIENCE PROJECT ON PAGE BLOCK CLASSIFICATION
+<h6>DATA SCIENCE PROJECT ON PAGE BLOCK CLASSIFICATION</h6>
     <br>1. page-blocks.data.Z</br>
 	<br>2. page-blocks.names</br>
 	<br>3. Project_info.txt</br>
