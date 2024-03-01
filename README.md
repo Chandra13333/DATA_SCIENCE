@@ -1,5 +1,5 @@
-*DATA SCIENCE PROJECT ON PAGE BLOCK CLASSIFICATION*
-	*1. page-blocks.data.Z*
+DATA SCIENCE PROJECT ON PAGE BLOCK CLASSIFICATION
+	<br>1. page-blocks.data.Z</br>
 	*2. page-blocks.names*
 	*3. Project_info.txt*
 	*4. Group_4_data.csv*
